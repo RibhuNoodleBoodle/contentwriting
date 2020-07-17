@@ -6,7 +6,7 @@ These 7A include:
 
 **Agile**: A Mindset. Starting off with good framework, what works and what doesn't. Map out what works and what doesn't.
 
-![More about it here](https://d3c33hcgiwev3.cloudfront.net/_a5e7d77a30986c4b64b4df1252399b04_DMS200_L02.3.mp3?Expires=1595116800&Signature=Y8sr17jwQ5JoVkV1CIBlO7uSz3UWL2XAE26HInkmHEvCXtQ3923vuTg1Xt4Rpj5EMwF4AIrqKCXyHiK8ns97SeMwx3zePNV-S4eqBNX3XBfa50CVNiC4xd2VSYtr1HTtvXj8Izao4eeCIsHnLro~Dp-5aKgof4SR~uSrcxZjFts_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) and [the way you can use it](https://d3c33hcgiwev3.cloudfront.net/_d3dd1d21293dafad650d6106d51f0443_DMS200_L02.4.mp3?Expires=1595116800&Signature=Blas7ysWQ6J7ixoj0yh2GsE6S~IrbXvD37-4fNGJVRvTMJVVaxlYMxJrEbVjRNYjtZuyVMi8hCY9hjZN9HZJcLBH0hET~6dmkVuz0GewoNqMZmhwEB~I3cfs4ntt~43nF10yMD2R59jt5DUd0w8xwcWabdfssj4qq63QP3vRJB8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[More about it here](https://d3c33hcgiwev3.cloudfront.net/_a5e7d77a30986c4b64b4df1252399b04_DMS200_L02.3.mp3?Expires=1595116800&Signature=Y8sr17jwQ5JoVkV1CIBlO7uSz3UWL2XAE26HInkmHEvCXtQ3923vuTg1Xt4Rpj5EMwF4AIrqKCXyHiK8ns97SeMwx3zePNV-S4eqBNX3XBfa50CVNiC4xd2VSYtr1HTtvXj8Izao4eeCIsHnLro~Dp-5aKgof4SR~uSrcxZjFts_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) and [the way you can use it](https://d3c33hcgiwev3.cloudfront.net/_d3dd1d21293dafad650d6106d51f0443_DMS200_L02.4.mp3?Expires=1595116800&Signature=Blas7ysWQ6J7ixoj0yh2GsE6S~IrbXvD37-4fNGJVRvTMJVVaxlYMxJrEbVjRNYjtZuyVMi8hCY9hjZN9HZJcLBH0hET~6dmkVuz0GewoNqMZmhwEB~I3cfs4ntt~43nF10yMD2R59jt5DUd0w8xwcWabdfssj4qq63QP3vRJB8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 **Authentic**: The shareability of a voice, i.e., a great writing voice. Value driven business, real writing voice, you being a creator
 
