@@ -6,23 +6,23 @@ Which is means you have to:
 
 Move the audience: 
 
-	Folks who are ready to buy, or engage with your audience. Must write things that move your audience.
-	Must be aware of the widespread business attitute of entitlement.
-	Fight the attitute of entitlement.
+	-Folks who are ready to buy, or engage with your audience. Must write things that move your audience.
+	-Must be aware of the widespread business attitute of entitlement.
+	-Fight the attitute of entitlement.
 
 Earn your audience attention:
 
-	Every topic can be exciting, even the boring ones.
-	Using techniques like humor, stories and frustation
-	Every content must have a narrative
-	Seek out every human story, even if it is boring.
+	-Every topic can be exciting, even the boring ones.
+	-Using techniques like humor, stories and frustation
+	-Every content must have a narrative
+	-Seek out every human story, even if it is boring.
 
 Have a Spark:
 
-	Find the passion who has a stand on something
-	Can be salesmen, CEOs, customers
-	Find another job if nobody plays that role
-	Somebody gotta know why this matters
+	-Find the passion who has a stand on something
+	-Can be salesmen, CEOs, customers
+	-Find another job if nobody plays that role
+	-Somebody gotta know why this matters
 
 ### So what is the effective structure of an effective content?
 
