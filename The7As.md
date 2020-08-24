@@ -1,25 +1,23 @@
 # The 7A Framework
 
-The 7A Framework is an effective framework for providing succesful context.
+The 7A Framework is an effective framework for providing successful context.
 
-These 7A include:
+It includes:
 
-**Agile**: A Mindset. Starting off with good framework, what works and what doesn't. Map out what works and what doesn't.
+**Agile**: A Mindset. Starting off with a good framework, what works and what doesn't?
 
-[More about it here](https://d3c33hcgiwev3.cloudfront.net/_a5e7d77a30986c4b64b4df1252399b04_DMS200_L02.3.mp3?Expires=1595116800&Signature=Y8sr17jwQ5JoVkV1CIBlO7uSz3UWL2XAE26HInkmHEvCXtQ3923vuTg1Xt4Rpj5EMwF4AIrqKCXyHiK8ns97SeMwx3zePNV-S4eqBNX3XBfa50CVNiC4xd2VSYtr1HTtvXj8Izao4eeCIsHnLro~Dp-5aKgof4SR~uSrcxZjFts_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) and [the way you can use it](https://d3c33hcgiwev3.cloudfront.net/_d3dd1d21293dafad650d6106d51f0443_DMS200_L02.4.mp3?Expires=1595116800&Signature=Blas7ysWQ6J7ixoj0yh2GsE6S~IrbXvD37-4fNGJVRvTMJVVaxlYMxJrEbVjRNYjtZuyVMi8hCY9hjZN9HZJcLBH0hET~6dmkVuz0GewoNqMZmhwEB~I3cfs4ntt~43nF10yMD2R59jt5DUd0w8xwcWabdfssj4qq63QP3vRJB8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+[More about it here](https://d3c33hcgiwev3.cloudfront.net/_a5e7d77a30986c4b64b4df1252399b04_DMS200_L02.3.mp3?Expires=1595116800&Signature=Y8sr17jwQ5JoVkV1CIBlO7uSz3UWL2XAE26HInkmHEvCXtQ3923vuTg1Xt4Rpj5EMwF4AIrqKCXyHiK8ns97SeMwx3zePNV-S4eqBNX3XBfa50CVNiC4xd2VSYtr1HTtvXj8Izao4eeCIsHnLro~Dp-5aKgof4SR~uSrcxZjFts_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) and [the way you can use it here](https://d3c33hcgiwev3.cloudfront.net/_d3dd1d21293dafad650d6106d51f0443_DMS200_L02.4.mp3?Expires=1595116800&Signature=Blas7ysWQ6J7ixoj0yh2GsE6S~IrbXvD37-4fNGJVRvTMJVVaxlYMxJrEbVjRNYjtZuyVMi8hCY9hjZN9HZJcLBH0hET~6dmkVuz0GewoNqMZmhwEB~I3cfs4ntt~43nF10yMD2R59jt5DUd0w8xwcWabdfssj4qq63QP3vRJB8_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A).
 
-**Authentic**: The shareability of a voice, i.e., a great writing voice. Value driven business, real writing voice, you being a creator
+**Authentic**: Have a real/authentic writing voice, a value driven business and be a creator
 
-**Attention**: Attraction or attention. It's about headlines, hooks, meaning and fascination. Relationships to gain traffic and attention. Attention needs to be captured and attention and begins with either social or search and then it's on a domain that you control. 
+**Attention**: Attraction and attention is about headlines, hooks, meaning and fascination. Build relationships to gain traffic and attention. Attention needs to be captured and attention begins with either social or search so that it's on a domain under your control. (Just no idea what this is supposed to mean)
 
-Ask yourself: who's attention are you capturing?
+**Ask yourself**: Who's attention are you capturing?
 
-Social media should be used to make secure relationships and grow business. It should not be _the business_.
+**Social media**: Social media should be used to make secure relationships and grow your business. It should not be _the business_.
 
-**Authority**: Being an expert on your field, but the expertise must be expressed in a humanistic way.
+**Authority**: Be an expert on your field and express your expertise in a way that is understandable by non-experts.
 
-**Action**: Writing that persuades. Make a purchase, take a political action, make a donation, etc. You may have to work with a dedicated specialist. So, your client or your organization may be working with an ad agency with a dedicated direct response copywriter. And sometimes, probably more often, it's going to be up to you to make this happen.
+**Action**: Use writing that persuades, make a purchase, take a political action, make a donation, etc. You may have to work with a dedicated specialist, your client or organization might be working with a PR agency that has a dedicated direct response copywriter. Most of the time, it's up to you to make these actions happen.
 
-**Acceleration**: Make connections to everyone, because you never know when you're going to who is or isn't going to help you in the future. Networking is the key to all businesses.
-
-
+**Acceleration**: Make connections to everyone, you never know who is or isn't going to help you in the future. Networking is the key to all businesses.
